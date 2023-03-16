@@ -13,3 +13,4 @@ public class bj1330 {
 		else if(A == B) System.out.println("==");
 	}
 }
+ 
